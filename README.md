@@ -1,7 +1,7 @@
 Hi, I'm Priyanshu Gairola! 👋
-3rd Year B.Tech Student | Aspiring Full Stack Developer
+4th Year B.Tech Student 
 
-🌱 Currently Learning: Full Stack Web Development
+🌱 Currently Learning: Full Stack Web Development, Penetration Testing
 🔭 Building Projects In: Python, HTML, CSS, JavaScript, React, Node.js
 💡 Interests: Web Development, IoT, Cyber Security
 <!---
